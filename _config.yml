@@ -14,6 +14,10 @@ sales_manager:
   name: Jeff Kuryak
   email: jeff.kuryak@austintexas.gov
   phone: 5124044042
+catering_manager:
+  name: Kerry Craig
+  email: kcraig@levyrestaurants.com
+  phone: 5124044137
 it_coordinator:
   name: Chad Paine
   email: chad.paine@austintexas.gov
